@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estructuras con Arreglos", "Estructuras con Arreglos\Estructuras con Arreglos.csproj", "{B621C87C-3139-4846-AC26-56B4609B757A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B621C87C-3139-4846-AC26-56B4609B757A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B621C87C-3139-4846-AC26-56B4609B757A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B621C87C-3139-4846-AC26-56B4609B757A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B621C87C-3139-4846-AC26-56B4609B757A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22094A86-EE5A-43E6-B37C-4ED4980F4E2C}
+	EndGlobalSection
+EndGlobal

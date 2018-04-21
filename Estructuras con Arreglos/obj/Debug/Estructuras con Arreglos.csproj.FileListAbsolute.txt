@@ -1,0 +1,20 @@
+/run/media/indiana/UUI/New folder/Estructuras con Arreglos/Estructuras con Arreglos/bin/Debug/Estructuras con Arreglos.exe.config
+/run/media/indiana/UUI/New folder/Estructuras con Arreglos/Estructuras con Arreglos/bin/Debug/Estructuras con Arreglos.exe
+/run/media/indiana/UUI/New folder/Estructuras con Arreglos/Estructuras con Arreglos/bin/Debug/Estructuras con Arreglos.pdb
+/run/media/indiana/UUI/New folder/Estructuras con Arreglos/Estructuras con Arreglos/obj/Debug/Estructuras con Arreglos.csprojResolveAssemblyReference.cache
+/run/media/indiana/UUI/New folder/Estructuras con Arreglos/Estructuras con Arreglos/obj/Debug/Estructuras_con_Arreglos.Form1.resources
+/run/media/indiana/UUI/New folder/Estructuras con Arreglos/Estructuras con Arreglos/obj/Debug/Estructuras_con_Arreglos.Properties.Resources.resources
+/run/media/indiana/UUI/New folder/Estructuras con Arreglos/Estructuras con Arreglos/obj/Debug/Estructuras con Arreglos.csproj.GenerateResource.Cache
+/run/media/indiana/UUI/New folder/Estructuras con Arreglos/Estructuras con Arreglos/obj/Debug/Estructuras con Arreglos.csproj.CoreCompileInputs.cache
+/run/media/indiana/UUI/New folder/Estructuras con Arreglos/Estructuras con Arreglos/obj/Debug/Estructuras con Arreglos.exe
+/run/media/indiana/UUI/New folder/Estructuras con Arreglos/Estructuras con Arreglos/obj/Debug/Estructuras con Arreglos.pdb
+D:\New folder\Estructuras con Arreglos\Estructuras con Arreglos\bin\Debug\Estructuras con Arreglos.exe.config
+D:\New folder\Estructuras con Arreglos\Estructuras con Arreglos\bin\Debug\Estructuras con Arreglos.exe
+D:\New folder\Estructuras con Arreglos\Estructuras con Arreglos\bin\Debug\Estructuras con Arreglos.pdb
+D:\New folder\Estructuras con Arreglos\Estructuras con Arreglos\obj\Debug\Estructuras_con_Arreglos.Form1.resources
+D:\New folder\Estructuras con Arreglos\Estructuras con Arreglos\obj\Debug\Estructuras_con_Arreglos.Properties.Resources.resources
+D:\New folder\Estructuras con Arreglos\Estructuras con Arreglos\obj\Debug\Estructuras con Arreglos.csproj.GenerateResource.Cache
+D:\New folder\Estructuras con Arreglos\Estructuras con Arreglos\obj\Debug\Estructuras con Arreglos.csproj.CoreCompileInputs.cache
+D:\New folder\Estructuras con Arreglos\Estructuras con Arreglos\obj\Debug\Estructuras con Arreglos.exe
+D:\New folder\Estructuras con Arreglos\Estructuras con Arreglos\obj\Debug\Estructuras con Arreglos.pdb
+D:\New folder\Estructuras con Arreglos\Estructuras con Arreglos\obj\Debug\Estructuras con Arreglos.csprojResolveAssemblyReference.cache
